@@ -34,7 +34,7 @@
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 	.photomanage{
-	max-width: 650px!important	;
+	max-width: 605px!important	;
 }
 .photomanagebottom{
 	margin-top: 290px;
@@ -45,7 +45,7 @@
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	.photomanage{
-	max-width: 650px!important	;
+	max-width: 605px!important	;
 }
 .photomanagebottom{
 	margin-top: 290px;
