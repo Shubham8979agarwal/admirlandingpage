@@ -309,7 +309,7 @@ div#ei-preloader {
 	transition: .3s all ease-in-out;
 	transform: scale(.5);
 	border-radius: 100%;
-	background: linear-gradient(90deg, #4cd0ff 0, #617af4 53%, #ff03d0 99%)
+	background: linear-gradient(90deg, #6c38e7 0, #9670f4 50%, #19a883 100%);
 }
 
 @keyframes fadeFromLeft {
