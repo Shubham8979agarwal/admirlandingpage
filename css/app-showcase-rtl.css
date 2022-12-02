@@ -196,7 +196,7 @@ div#ei-preloader {
 .eight-section-title .eg-title-tag i:nth-child(1) {
 	height: 5px;
 	width: 5px;
-	background-color: #4ce7f3
+	background-color: #6c38e7
 }
 
 .eight-section-title h2 {
@@ -231,14 +231,14 @@ div#ei-preloader {
 	width: 5px;
 	height: 5px;
 	left: 20px;
-	background-color: #4ce7f3
+	background-color: #6c38e7
 }
 
 .eight-section-title .square-shape i:nth-child(2) {
 	width: 10px;
 	left: 28px;
 	height: 10px;
-	background-color: #4ce7f3
+	background-color: #6c38e7
 }
 
 .eight-section-title .square-shape i:nth-child(3) {
@@ -252,7 +252,7 @@ div#ei-preloader {
 	left: 10px;
 	width: 12px;
 	height: 12px;
-	background-color: #ff00d6
+	background-color: 19a883
 }
 
 .eight-section-title p {
@@ -290,7 +290,7 @@ div#ei-preloader {
 .ei-service-icon-text .ei-service-icon i,
 .feature-eight-section .eight-feature-box .feature-icon8 i {
 	display: block;
-	background: linear-gradient(173deg, #ff00d7 30%, #50c7f5 67%, #72aaff 99%);
+	background: linear-gradient(173deg, #c2faf7 30%, #6c38e7 67%, #9670f4 99%);
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent
@@ -402,7 +402,7 @@ div#ei-preloader {
 	width: 0%;
 	position: absolute;
 	border-radius: 50px;
-	background-color: #49eff2;
+	background-color: #c2faf7;
 	transition: .3s all ease-in-out
 }
 
@@ -424,7 +424,7 @@ div#ei-preloader {
 	line-height: 40px;
 	border-radius: 20px;
 	justify-content: center;
-	background-color: #29f5eb;
+	background-color: #c2faf7;
 	transition: .3s all ease-in-out
 }
 
@@ -534,7 +534,7 @@ div#ei-preloader {
 }
 
 .eisticky-menu-bg-overlay {
-	background-color: #9c00e2;
+	background-color: #6c38e7;
 	animation-duration: .7s;
 	animation-fill-mode: both;
 	animation-name: fadeInDown;
@@ -604,7 +604,7 @@ div#ei-preloader {
 	border-radius: 50px;
 	margin-left: 20px;
 	border-top-left-radius: 0;
-	background-color: #ff00d6
+	background-color: #6c38e7;
 }
 
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(1) i {
@@ -622,7 +622,7 @@ div#ei-preloader {
 }
 
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(2) {
-	color: #4ce7f3;
+	color: #6c38e7;
 	position: relative
 }
 
@@ -636,7 +636,7 @@ div#ei-preloader {
 	content: "";
 	position: absolute;
 	height: 1px;
-	background-color: #4ce7f3;
+	background-color: #6c38e7;
 	bottom: -2px;
 	right: auto;
 	left: 0;
@@ -916,12 +916,12 @@ div#ei-preloader {
 
 .feature-eight-section .eight-feature-box .feature-icon8:before {
 	animation: rotate 1.8s linear infinite;
-	background: #33f1ff
+	background: #9670f4;
 }
 
 .feature-eight-section .eight-feature-box .feature-icon8:after {
 	animation: rotate 1.2s linear reverse infinite;
-	background: #e933ff
+	background: #1ad2aa;
 }
 
 .feature-eight-section .eight-feature-box .feature-icon8 i {
@@ -942,7 +942,7 @@ div#ei-preloader {
 
 .feature-eight-section .eight-feature-box .ei-feature-more {
 	position: absolute;
-	background-color: #4ce7f3;
+	background-color: #c2faf7;
 	width: 50px;
 	height: 50px;
 	border-radius: 100%;
@@ -1272,12 +1272,12 @@ div#ei-preloader {
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(2) .odometer,
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(2) strong {
-	color: #ff00d6
+	color: 19a883
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(3) .odometer,
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(3) strong {
-	color: #4ce7f3
+	color: #6c38e7
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number:nth-child(4) .odometer,
@@ -2068,7 +2068,7 @@ div#ei-preloader {
 	z-index: 0;
 	right: 0;
 	background-repeat: no-repeat;
-	background-image: url(../images/t-shape2.png)
+	/*background-image: url(../images/t-shape2.png)*/
 }
 
 .ei-testimonial-section .ei-testimonial-img-text .test--quote-icon {
@@ -2305,7 +2305,7 @@ div#ei-preloader {
 .ei-newslatter-section .ei-newslatter-box {
 	overflow: hidden;
 	padding: 65px 0 70px;
-	background: linear-gradient(90deg, #ff00a2 0, #750cf8 50%, #4ce7f3 100%)
+	background: linear-gradient(90deg, #6c38e7 0, #9670f4 50%, #19a883 100%)
 }
 
 .ei-newslatter-section .ei-newslatter-box .ei-news-vector1 {
@@ -2367,7 +2367,7 @@ div#ei-preloader {
 	border-radius: 30px;
 	text-align: center;
 	background-color: transparent;
-	background: linear-gradient(90deg, #ff03d0 0, #4599fb 53%, #70fcff 99%)
+	background: linear-gradient(90deg, #9670f4 0, #6c38e7 53%, #70fcff 99%)
 }
 
 .ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form p {
@@ -2378,7 +2378,7 @@ div#ei-preloader {
 }
 
 .ei-footer-section {
-	padding-top: 220px;
+	padding-top: 120px;
 	z-index: 0
 }
 

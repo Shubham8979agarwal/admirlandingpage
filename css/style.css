@@ -4,11 +4,17 @@
 	.photomanage{
 	max-width: 100%!important;
 }
+.photomanagebottom{
+	max-width: 100%!important;
+}
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 	.photomanage{
+	max-width: 100%!important;
+}
+.photomanagebottom{
 	max-width: 100%!important;
 }
 }
@@ -18,11 +24,19 @@
 	.photomanage{
 	max-width: 650px!important	;
 }
+.photomanagebottom{
+	margin-top: 375px;
+	max-width: 530px!important;
+}
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	.photomanage{
 	max-width: 650px!important	;
+}
+.photomanagebottom{
+	margin-top: 375px;
+	max-width: 530px!important;
 }
 }
