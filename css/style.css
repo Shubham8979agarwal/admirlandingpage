@@ -1,3 +1,16 @@
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5){
+
+  html,
+  body{
+    width:100%;
+    overflow-x:hidden;
+  }
+
+}
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 	.photomanage{
@@ -15,13 +28,13 @@
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 	.photomanage{
-	max-width: 650px!important;
+	max-width: 650px!important	;
 }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	.photomanage{
-	max-width: 650px!important;
+	max-width: 650px!important	;
 }
 }
