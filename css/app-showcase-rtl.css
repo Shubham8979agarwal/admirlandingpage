@@ -534,7 +534,7 @@ div#ei-preloader {
 }
 
 .eisticky-menu-bg-overlay {
-	background-color: #6c38e7;
+	background-color: #1ad2aa;
 	animation-duration: .7s;
 	animation-fill-mode: both;
 	animation-name: fadeInDown;
@@ -1438,8 +1438,6 @@ div#ei-preloader {
 }
 
 .eg-how-work-section .how-work-mockup img {
-	max-height: 500px;
-	margin: -100px;
     padding-top: 100px;
 }
 
@@ -2344,7 +2342,7 @@ div#ei-preloader {
 	margin-top: 20px
 }
 
-.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form input {
+.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form input,.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form textarea {
 	width: 100%;
 	border: none;
 	text-align: right;
@@ -2354,10 +2352,10 @@ div#ei-preloader {
 	margin-bottom: 15px
 }
 
-.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form .nws-button {
+/*.ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form .nws-button {
 	top: 12px;
 	left: 12px
-}
+}*/
 
 .ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form .nws-button button {
 	height: 48px;
@@ -2366,8 +2364,9 @@ div#ei-preloader {
 	color: #fff;
 	border-radius: 30px;
 	text-align: center;
-	background-color: transparent;
-	background: linear-gradient(90deg, #9670f4 0, #6c38e7 53%, #70fcff 99%)
+	/*background-color: #c2faf7;*/
+	/*background: linear-gradient(90deg, #9670f4 0, #6c38e7 53%, #70fcff 99%)*/
+	background: linear-gradient(90deg, #19a883 0, #19a883 50%, #19a883 100%);
 }
 
 .ei-newslatter-section .ei-newslatter-contnet .ei-newslatter-form form p {
@@ -3130,7 +3129,8 @@ div#ei-preloader {
 	}
 
 	.ei-service-icon-text .ei-service-icon i {
-		font-size: 35px
+		font-size: 35px;
+		margin-right: 22px!important;
 	}
 
 	.eight-service-section {
