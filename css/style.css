@@ -1,0 +1,27 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+	.photomanage{
+	max-width: 100%!important;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	.photomanage{
+	max-width: 100%!important;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.photomanage{
+	max-width: 650px!important;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.photomanage{
+	max-width: 650px!important;
+}
+}

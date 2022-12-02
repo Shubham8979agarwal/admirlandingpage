@@ -650,7 +650,7 @@ div#ei-preloader {
 
 .eight-banner-section .eight-banner-content h1 {
 	color: #fff;
-	font-size: 72px;
+	font-size: 60px;
 	font-weight: 700;
 	line-height: 1.083;
 	padding-bottom: 20px
@@ -1098,7 +1098,7 @@ div#ei-preloader {
 
 .eight-service-section .eight-service-text h2 {
 	color: #fff;
-	font-size: 45px;
+	font-size: 30px;
 	font-weight: 700
 }
 
@@ -1438,7 +1438,9 @@ div#ei-preloader {
 }
 
 .eg-how-work-section .how-work-mockup img {
-	max-height: 500px
+	max-height: 500px;
+	margin: -100px;
+    padding-top: 100px;
 }
 
 .eg-how-work-section .how-work-mockup .hw-shape1 {
@@ -2973,7 +2975,7 @@ div#ei-preloader {
 
 @media screen and (max-width:680px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 65px
+		font-size: 60px
 	}
 
 	.ei-team-section .ei-team-content .owl-item.active.center .ei-team-img:after {
