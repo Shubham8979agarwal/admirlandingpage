@@ -1,5 +1,5 @@
 p, .ei-faq-body {
-    font-weight: 100;
+    font-weight: 500!important;
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
