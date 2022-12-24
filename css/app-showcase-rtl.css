@@ -3126,8 +3126,8 @@ div#ei-preloader {
 	.ei-service-icon-text .ei-service-icon {
 		height: 80px;
 		width: 80px;
-		padding: 10px!important;
-		line-height: 80px
+		padding: 12px!important;
+		line-height: 58px
 	}
 
 	.ei-service-icon-text .ei-service-icon i {
