@@ -882,9 +882,11 @@ div#ei-preloader {
 
 .feature-eight-section .eight-feature-box {
 	border-radius: 20px;
-	padding: 40px 30px 53px;
+	/*padding: 40px 30px 53px;*/
+	padding: 20px 15px 25px;
 	background-color: #e9ebf7;
-	transition: .3s all ease-in-out
+	transition: .3s all ease-in-out;
+	height:380px;
 }
 
 .feature-eight-section .eight-feature-box .feature-icon8 {
@@ -1066,11 +1068,11 @@ div#ei-preloader {
 }
 
 .eight-service-section .eight-service-slide a:nth-child(1) {
-	margin-bottom: 65px
+	margin-bottom: 32px
 }
 
 .eight-service-section .eight-service-slide a:nth-child(2) {
-	margin-bottom: 55px;
+	margin-bottom: 27px;
 	transform: translateX(10px)
 }
 
@@ -1086,20 +1088,20 @@ div#ei-preloader {
 
 .eight-service-section .eight-service-text:before {
 	/*content: "";
-	top: -180px;
-	z-index: -1;
-	right: -150px;
-	width: 678px;
-	height: 678px;
-	position: absolute;
-	animation: spining 10s linear infinite;
-	background-image: url(../img/s-shape5.png)*/
-	content: "";
-    top: -100px;
+    top: -160px;
     z-index: -1;
-    right: -155px;
+    right: -150px;
     width: 678px;
 	height: 678px;
+    position: absolute;
+    animation: spining 10s linear infinite;
+    background-image: url(../img/s-shape5.png);*/
+    content: "";
+    top: -130px;
+    z-index: -1;
+    right: -150px;
+    width: 678px;
+    height: 678px;
     position: absolute;
     animation: spining 10s linear infinite;
     background-image: url(../img/s-shape5.png);
@@ -2984,7 +2986,7 @@ div#ei-preloader {
 
 @media screen and (max-width:680px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 26px
+		font-size: 23px
 	}
 
 	.ei-team-section .ei-team-content .owl-item.active.center .ei-team-img:after {
@@ -2994,7 +2996,7 @@ div#ei-preloader {
 
 @media screen and (max-width:580px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 26px
+		font-size: 23px
 	}
 
 	.eg-fun-fact-section .eg-fun-fact-mockup .fn-shape-item1 {
@@ -3113,7 +3115,7 @@ div#ei-preloader {
 
 @media screen and (max-width:420px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 26px
+		font-size: 23px
 	}
 
 	.cd-headline.clip .cd-words-wrapper::after {
@@ -3162,7 +3164,8 @@ div#ei-preloader {
 	}
 
 	.eight-service-section .eight-service-text h2 {
-		font-size: 30px
+		font-size: 30px;
+		/*display: none;*/
 	}
 
 	.eg-fun-fact-section {
@@ -3288,7 +3291,7 @@ div#ei-preloader {
 
 @media screen and (max-width:380px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 25px
+		font-size: 23px
 	}
 
 	.ei-appdownload-section .app-down-btn a {
