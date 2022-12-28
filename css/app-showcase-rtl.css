@@ -1057,7 +1057,7 @@ div#ei-preloader {
 }
 
 .eight-service-section .eight-service-slide .ei-service-slide-btn {
-	margin-right: 265px
+	/*margin-right: 265px*/
 }
 
 .eight-service-section .eight-service-slide a {
@@ -1085,7 +1085,7 @@ div#ei-preloader {
 }
 
 .eight-service-section .eight-service-text:before {
-	content: "";
+	/*content: "";
 	top: -180px;
 	z-index: -1;
 	right: -150px;
@@ -1093,7 +1093,16 @@ div#ei-preloader {
 	height: 678px;
 	position: absolute;
 	animation: spining 10s linear infinite;
-	background-image: url(../img/s-shape5.png)
+	background-image: url(../img/s-shape5.png)*/
+	content: "";
+    top: -100px;
+    z-index: -1;
+    right: -155px;
+    width: 678px;
+	height: 678px;
+    position: absolute;
+    animation: spining 10s linear infinite;
+    background-image: url(../img/s-shape5.png);
 }
 
 .eight-service-section .eight-service-text h2 {
@@ -1124,9 +1133,9 @@ div#ei-preloader {
 	font-size: 55px
 }
 
-.ei-service-icon-text .ei-service-text {
+/*.ei-service-icon-text .ei-service-text {
 	max-width: 300px
-}
+}*/
 
 .ei-service-icon-text .ei-service-text h3 {
 	font-size: 24px;
@@ -2774,7 +2783,7 @@ div#ei-preloader {
 	}
 
 	.eight-service-section .eight-service-slide .ei-service-slide-btn {
-		margin-right: 60px
+		/*margin-right: 60px*/
 	}
 
 	.eight-service-section .eight-service-slide {
@@ -2975,7 +2984,7 @@ div#ei-preloader {
 
 @media screen and (max-width:680px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 60px
+		font-size: 26px
 	}
 
 	.ei-team-section .ei-team-content .owl-item.active.center .ei-team-img:after {
@@ -2985,7 +2994,7 @@ div#ei-preloader {
 
 @media screen and (max-width:580px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 60px
+		font-size: 26px
 	}
 
 	.eg-fun-fact-section .eg-fun-fact-mockup .fn-shape-item1 {
@@ -3030,7 +3039,7 @@ div#ei-preloader {
 @media screen and (max-width:480px) {
 	.eight-banner-section .eight-banner-content h1 {
 		text-align: center;
-		font-size: 50px
+		font-size: 26px
 	}
 
 	.cd-headline.clip .cd-words-wrapper::after {
@@ -3104,7 +3113,7 @@ div#ei-preloader {
 
 @media screen and (max-width:420px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 42px
+		font-size: 26px
 	}
 
 	.cd-headline.clip .cd-words-wrapper::after {
@@ -3279,7 +3288,7 @@ div#ei-preloader {
 
 @media screen and (max-width:380px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 36px
+		font-size: 25px
 	}
 
 	.ei-appdownload-section .app-down-btn a {
