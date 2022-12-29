@@ -159,7 +159,7 @@ div#ei-preloader {
 .appeight-headline h5,
 .appeight-headline h6 {
 	margin: 0;
-	font-family: Poppins
+	font-family: sans-serif;
 }
 
 .ei-scrollup {
@@ -372,14 +372,14 @@ div#ei-preloader {
 }
 
 .main-header-eight .appheader-content .site-logo {
-	margin-left: 255px
+	margin-left: 100px
 }
 
 .main-header-eight .appheader-content .navigation-eight {
 	color: #fff;
 	font-weight: 500;
 	display: inline-block;
-	font-family: Poppins;
+	font-family : sans-serif;
 	padding-top: 10px
 }
 
@@ -590,7 +590,7 @@ div#ei-preloader {
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a {
 	font-size: 15px;
 	font-weight: 700;
-	font-family: Poppins;
+	font-family : sans-serif;
 	display: inline-block;
 	transition: .3s all ease-in-out
 }
@@ -684,7 +684,7 @@ div#ei-preloader {
 }
 
 .eight-banner-section .eight-banner-content .ei-banner-review p span {
-	font-family: Poppins;
+	font-family : sans-serif;
 	font-weight: 700;
 	color: #000
 }
@@ -886,7 +886,7 @@ div#ei-preloader {
 	padding: 20px 15px 25px;
 	background-color: #e9ebf7;
 	transition: .3s all ease-in-out;
-	height:380px;
+	height:410px;
 }
 
 .feature-eight-section .eight-feature-box .feature-icon8 {
@@ -1148,7 +1148,8 @@ div#ei-preloader {
 .ei-service-icon-text .ei-service-text p {
 	color: #5e5e5e;
 	overflow: hidden;
-	line-height: 1.647
+	line-height: 1.647;
+	font-size:14.5px!important;
 }
 
 .ei-service-icon-text:hover .ei-service-icon:after {
@@ -1253,7 +1254,7 @@ div#ei-preloader {
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number .odometer {
 	font-size: 50px;
-	font-family: Poppins;
+	font-family : sans-serif;
 	font-weight: 600
 }
 
@@ -1495,7 +1496,7 @@ div#ei-preloader {
 	margin-top: 3px;
 	font-size: 15px;
 	font-weight: 700;
-	font-family: Poppins;
+	font-family : sans-serif;
 	position: relative
 }
 
@@ -1854,7 +1855,7 @@ div#ei-preloader {
 	position: relative;
 	margin-bottom: 5px;
 	padding: 0 50px 0 0;
-	font-family: Poppins;
+	font-family: sans-serif;
 	background-color: transparent
 }
 
@@ -2419,7 +2420,7 @@ div#ei-preloader {
 	font-size: 14px;
 	padding-left: 15px;
 	margin-bottom: 20px;
-	font-family: Poppins
+	font-family: sans-serif;
 }
 
 .ei-footer-widget ul li a {
@@ -2532,7 +2533,7 @@ div#ei-preloader {
 .ei-footer-copyright {
 	margin-top: 40px;
 	font-size: 14px;
-	font-family: Poppins
+	font-family: sans-serif;
 }
 
 .ei-footer-copyright .ei-footer-copyright-content {
@@ -2753,7 +2754,7 @@ div#ei-preloader {
 	}
 
 	.main-header-eight .appheader-content .site-logo {
-		margin-left: 230px
+		margin-left: 85px
 	}
 
 	.eg-fun-fact-section .eg-fun-fact-mockup .fn-shape-item1 {
@@ -2798,7 +2799,8 @@ div#ei-preloader {
 	}
 
 	.eight-service-section .eight-service-text h2 {
-		max-width: 285px
+		max-width: 285px;
+		text-align: center;
 	}
 
 	.ei-service-slide-mbl {
