@@ -797,11 +797,14 @@ div#ei-preloader {
 }
 
 .cd-headline.clip b {
-	opacity: 0
+	opacity: 0;
+	font-family: sans-serif!important;
 }
 
 .cd-headline.clip b.is-visible {
-	opacity: 1
+	opacity: 1;
+	font-family: sans-serif!important;
+	
 }
 
 .cd-words-wrapper {
@@ -2865,7 +2868,7 @@ div#ei-preloader {
 	}
 
 	.feature-eight-section .eight-feature-box {
-		margin-bottom: 50px
+		/*margin-bottom: 50px*/
 	}
 
 	.eight-service-section .eight-service-slide {
