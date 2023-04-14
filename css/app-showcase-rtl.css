@@ -35,7 +35,7 @@
 	direction: rtl;
 	unicode-bidi: embed;
 	line-height: 1.4;
-	font-family: "Circular Std Book";
+	/*font-family: "Circular Std Book";*/
 	-moz-osx-font-smoothing: antialiased;
 	-webkit-font-smoothing: antialiased
 }
@@ -1216,7 +1216,7 @@ div#ei-preloader {
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter {
-	display: inline-block;
+	/*display: inline-block;*/
 	margin-top: 40px
 }
 
@@ -1247,8 +1247,8 @@ div#ei-preloader {
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number {
-	width: 50%;
-	float: right;
+	/*width: 50%;
+	float: right;*/
 	padding: 25px 0 30px
 }
 
@@ -1263,9 +1263,9 @@ div#ei-preloader {
 }
 
 .eg-fun-fact-section .eg-funfact-text .fun-fact-counter .eg-counter-number p {
-	font-size: 26px;
-	max-width: 130px;
-	margin: 0 auto;
+	/*font-size: 26px;
+	max-width: 130px;*/
+	margin: 10px;
 	line-height: 1.231
 }
 
@@ -2480,7 +2480,7 @@ div#ei-preloader {
 }
 
 .ei-footer-widget h4 span {
-	font-family: "Circular Std Book";
+	/*font-family: "Circular Std Book";*/
 	font-weight: 400;
 	margin-top: 10px;
 	display: block;
@@ -3258,7 +3258,8 @@ div#ei-preloader {
 
 	.eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(1) {
 		height: 45px;
-		width: 150px;
+		padding-bottom: 10px;
+		/*width: 150px;*/
 		line-height: 45px
 	}
 
