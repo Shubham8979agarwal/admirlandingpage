@@ -42,7 +42,7 @@ a{
 	direction: rtl;
 	unicode-bidi: embed;
 	line-height: 1.4;
-	/*font-family: "Circular Std Book";*/
+	font-family: sans-serif;
 	-moz-osx-font-smoothing: antialiased;
 	-webkit-font-smoothing: antialiased
 }
@@ -198,7 +198,8 @@ div#ei-preloader {
 	font-size: 17px;
 	font-weight: 500;
 	position: relative;
-	font-family: "Circular Std"
+	/*font-family: "Circular Std"*/
+	font-family: sans-serif;
 }
 
 .eight-section-title .eg-title-tag i:nth-child(1) {
@@ -784,8 +785,9 @@ div#ei-preloader {
 }
 
 .cd-headline.clip span {
-	display: inline-block;
-	padding-bottom: 10px
+	display: inline-block!important;
+	padding-bottom: 10px;
+	font-family: sans-serif!important;
 }
 
 .cd-headline.clip .cd-words-wrapper {
@@ -2494,7 +2496,7 @@ div#ei-preloader {
 }
 
 .ei-footer-widget h4 span {
-	/*font-family: "Circular Std Book";*/
+	/*font-family: sans-serif;*/
 	font-weight: 400;
 	margin-top: 10px;
 	display: block;
