@@ -43,7 +43,8 @@ textarea::placeholder{
 }
 .site-logo.float-left img {
     margin-top:-10px;
-    width: 150px!important;
+    /*width: 150px!important;*/
+    width: 180px!important;
 }
 .ei-footer-logo img {
     width: 240px;
