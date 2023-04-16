@@ -29,6 +29,11 @@
 a{
     text-decoration: none!important;
 }
+@media(max-width:640px){
+	.site-logo.float-left img{
+		width: 120px!important;
+	}
+}
 .app-eight-home-rtl {
 	margin: 0;
 	padding: 0;
@@ -787,7 +792,9 @@ div#ei-preloader {
 	display: inline-block;
 	position: relative;
 	text-align: right;
-	vertical-align: top
+	vertical-align: top;
+	font-size:40px!important;
+	font-family: sans-serif!important;
 }
 
 .cd-headline.clip .cd-words-wrapper::after {
@@ -2995,7 +3002,11 @@ div#ei-preloader {
 
 @media screen and (max-width:680px) {
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 21px
+		font-size: 21px;
+	}
+
+	.cd-headline.clip .cd-words-wrapper{
+		font-size: 21px!important;
 	}
 
 	.ei-team-section .ei-team-content .owl-item.active.center .ei-team-img:after {
@@ -3006,6 +3017,10 @@ div#ei-preloader {
 @media screen and (max-width:580px) {
 	.eight-banner-section .eight-banner-content h1 {
 		font-size: 21px
+	}
+
+	.cd-headline.clip .cd-words-wrapper{
+		font-size: 21px!important;
 	}
 
 	.eg-fun-fact-section .eg-fun-fact-mockup .fn-shape-item1 {
@@ -3125,6 +3140,10 @@ div#ei-preloader {
 @media screen and (max-width:420px) {
 	.eight-banner-section .eight-banner-content h1 {
 		font-size: 21px
+	}
+
+	.cd-headline.clip .cd-words-wrapper{
+		font-size: 21px!important;
 	}
 
 	.cd-headline.clip .cd-words-wrapper::after {
@@ -3304,6 +3323,10 @@ div#ei-preloader {
 		font-size: 21px
 	}
 
+	.cd-headline.clip .cd-words-wrapper{
+		font-size: 21px!important;
+	}
+
 	.ei-appdownload-section .app-down-btn a {
 		margin-bottom: 20px
 	}
@@ -3334,7 +3357,11 @@ div#ei-preloader {
 	}
 
 	.eight-banner-section .eight-banner-content h1 {
-		font-size: 33px
+		font-size: 21px
+	}
+
+	.cd-headline.clip .cd-words-wrapper{
+		font-size: 21px!important;
 	}
 
 	.eight-section-title h2 {
