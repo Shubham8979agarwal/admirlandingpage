@@ -1,5 +1,5 @@
 /*App Showcase RTL*/
-@font-face {
+/*@font-face {
 	font-family: 'Circular Std';
 	src: url(../fonts/CircularStd-Black.woff2) format('woff2'), url(../fonts/CircularStd-Black.woff) format('woff');
 	font-weight: 900;
@@ -25,7 +25,7 @@
 	src: url(../fonts/CircularStd-Book.woff2) format('woff2'), url(../fonts/CircularStd-Book.woff) format('woff');
 	font-weight: 400;
 	font-style: normal
-}
+}*/
 
 .app-eight-home-rtl {
 	margin: 0;
@@ -149,7 +149,8 @@ div#ei-preloader {
 }
 
 .app-eight-home-rtl .pera-content p {
-	margin-bottom: 0
+	margin-bottom: 0;
+	text-align: center;
 }
 
 .appeight-headline h1,
@@ -203,7 +204,8 @@ div#ei-preloader {
 	font-size: 36px;
 	font-weight: 700;
 	padding: 15px 0 12px;
-	line-height: 1.306
+	line-height: 1.306;
+	text-align:center;
 }
 
 .eight-section-title h2 span {
@@ -858,9 +860,9 @@ div#ei-preloader {
 	}
 }
 
-.feature-eight-section {
+/*.feature-eight-section {
 	padding: 185px 0 165px
-}
+}*/
 
 .feature-eight-section .ei-feature-shape {
 	right: 0;
