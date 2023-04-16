@@ -31,6 +31,7 @@ a{
 }
 @media(max-width:640px){
 	.site-logo.float-left img{
+		margin-top: 0!important;
 		width: 120px!important;
 	}
 }
