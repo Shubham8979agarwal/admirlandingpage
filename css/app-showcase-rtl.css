@@ -1,5 +1,5 @@
 /*App Showcase RTL*/
-/*@font-face {
+@font-face {
 	font-family: 'Circular Std';
 	src: url(../fonts/CircularStd-Black.woff2) format('woff2'), url(../fonts/CircularStd-Black.woff) format('woff');
 	font-weight: 900;
@@ -25,8 +25,10 @@
 	src: url(../fonts/CircularStd-Book.woff2) format('woff2'), url(../fonts/CircularStd-Book.woff) format('woff');
 	font-weight: 400;
 	font-style: normal
-}*/
-
+}
+a{
+    text-decoration: none!important;
+}
 .app-eight-home-rtl {
 	margin: 0;
 	padding: 0;

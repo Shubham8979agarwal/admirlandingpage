@@ -1,6 +1,9 @@
 p, .ei-faq-body {
     font-weight: 500!important;
 }
+a{
+    text-decoration: none!important;
+}
 @media (min-width: 576px) {
     .photomanage{
         max-width: 100%!important;
@@ -45,7 +48,7 @@ textarea::placeholder{
 .ei-footer-logo img {
     width: 240px;
 }
-/*@font-face {
+@font-face {
     font-family: 'appilo';
     src: url('../fonts/appilo.eot');
     src: url('../fonts/appilo.eot#iefix') format('embedded-opentype'), url('../fonts/appilo.ttf') format('truetype'), url('../fonts/appilo.woff') format('woff'), url('../fonts/appilo.svg#appilo') format('svg');
@@ -219,7 +222,7 @@ textarea::placeholder{
 }
 .appilo-icon-diamond:before {
     content: "\e911";
-}*/
+}
 @charset "UTF-8";
 .wp-block-archives-dropdown label{
     display:block
