@@ -2172,6 +2172,7 @@ div#ei-preloader {
 }
 
 .ei-testimonial-section .ei-testimonial-img-text .ei-testimonial-text p {
+	font-size: small;
 	line-height: 1.529;
 	margin-bottom: 0;
 	padding-bottom: 8px
